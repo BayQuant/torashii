@@ -1,4 +1,4 @@
-![Uploading logo.gif…]()
+![logo](https://github.com/user-attachments/assets/15007748-0a76-40b2-898b-17dd12c3dddd)
 
 Toraniko is a complete implementation of a risk model suitable for quantitative and systematic trading at institutional scale. In particular, it is a characteristic factor model in the same vein as Barra and Axioma (in fact, given the same datasets, it approximately reproduces Barra's estimated factor returns).
 
