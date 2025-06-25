@@ -1,4 +1,4 @@
-![logo](https://github.com/user-attachments/assets/f31671e5-cf8d-4639-8a81-b75a12ac2ca8)
+![logo](https://github.com/user-attachments/assets/e4eb66f8-e35b-4ece-8961-68fb90d2b0e3)
 
 [Torashii](https://bayquant.github.io/torashii/) is a complete implementation of a risk model suitable for quantitative and systematic trading at institutional scale. In particular, it is a characteristic factor model in the same vein as Barra and Axioma (in fact, given the same datasets, it approximately reproduces Barra's estimated factor returns).
 
