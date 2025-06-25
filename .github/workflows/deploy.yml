@@ -27,5 +27,6 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-pip-
 
-      - run: pip install mkdocs-material pillow cairosvg
+      - run: pip install mkdocs-material mkdocstrings[python]
+
       - run: mkdocs gh-deploy --force
