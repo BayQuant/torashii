@@ -1,0 +1,4 @@
+# Torashii Model
+
+::: torashii.model
+---

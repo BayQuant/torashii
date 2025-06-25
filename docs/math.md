@@ -1,0 +1,4 @@
+# Torashii Math
+
+::: torashii.math
+---
