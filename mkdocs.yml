@@ -1,0 +1,16 @@
+site_name: Torashii
+
+theme:
+  name: material
+
+plugins:
+  - search
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            log_level: DEBUG
+
+nav:
+  - Home: index.md
+  - API: api.md
