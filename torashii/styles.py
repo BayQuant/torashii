@@ -8,7 +8,7 @@ from torashii.math import (
     exp_weights,
     center_xsection,
     percentiles_xsection,
-    winsorize_xsection,
+    winsorize_xsection
 )
 
 ###
