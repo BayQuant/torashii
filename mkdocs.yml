@@ -56,7 +56,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Math: math.md
-  - Model: model.md
-  - Style Factors: styles.md
-  - Utils: utils.md
+  - 🧠 Math: math.md
+  - 📊 Model: model.md
+  - 📈 Style Factors: styles.md
+  - 🛠️ Utils: utils.md
