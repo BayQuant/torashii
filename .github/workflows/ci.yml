@@ -1,13 +1,16 @@
 name: CI
 
 on:
+  push:
+    branches:
+      - main
   pull_request:
     branches:
       - main
 
 defaults:
   run:
-    working-directory: toraniko
+    working-directory: torashii
     shell: bash
 
 jobs:
