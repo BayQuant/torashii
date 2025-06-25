@@ -1,1 +1,1 @@
-# WELCOME TO TORASHII
+![logo.gif](../../dynamax/logo/logo.gif)
